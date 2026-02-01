@@ -7,5 +7,7 @@ This is the code repository for demo on integrating Poetry with GitHub Actions /
 - PyPI Project Page (For GitHub Actions Demo): [PyPI](https://pypi.org/project/timer-demo/)
 - Powerpoint Slides: [Slides](https://1drv.ms/p/s!Amz7QSxl3996gTGgS3CtzSQswZIP?e=dnSeJD)
 
+For the slides, you may also find them in [slides_backup](slides_backup) directory.
+
 ## Author
 [@wyhwong](https://github.com/wyhwong)
